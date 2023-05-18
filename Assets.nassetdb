@@ -171,6 +171,10 @@
             "09396d5d-21d8-e21e-0b83-fd6ceb3089ed"
         ]
     },
+    "0f38d189-0f59-4b17-90c1-edd5b78be057": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Big_City_Thumb.tex.nasset"
+    },
     "0f4bdcc6-2b56-1c67-9367-0904c0bd89d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
